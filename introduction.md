@@ -5,5 +5,5 @@ My favorite Code School path are: Ruby and javascript.
 
 Deadly skills:
 * Ruby
-* PHP 
-
+* PHP
+* Killing history using git rebase
